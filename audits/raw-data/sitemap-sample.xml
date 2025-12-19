@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://localhost:5000/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5000/browse</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5000/manga/13bcf2b2-0906-404a-bbfe-91119dba23ba</loc>
+    <lastmod>2025-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://wallpapercave.com/wp/wp11656059.jpg</image:loc>
+      <image:title>You Were the Only One Who Saw Through My Lie</image:title>
+      <image:caption>Ellie was once just an ordinary girl living in a warm, loving home. Until the chaos of war led to her being mistaken for a missing princess. Since then, she has been forced to live as the empire’s “fa</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://localhost:5000/manga/3c8a4af5-b1e8-4711-b703-39cd55eb9a47</loc>
+    <lastmod>2025-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://i.pinimg.com/736x/8b/b7/94/8bb7947b0c60069c2ef00aa806273f6e.jpg</image:loc>
+      <image:title>Tower of God : Urek Mazino</image:title>
+      <image:caption>Manga is a Japanese form of art that tells a story using an artistic visual style. It is a large range of graphic novels and comic books that originated in Japan. The term &quot;manga&quot; is derived from two </image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://localhost:5000/manga/398fe33b-454f-4c13-a30b-cef22bef4a9a</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS6JVP3gjmhXy4UpjVe7a2xmQduCyATth_g&amp;s</image:loc>
+      <image:title>We Are Absolutely Not Getting Divorced!</image:title>
+      <image:caption>tako and Akito are a married couple thriving as popular couple counselors.
+
+Their secret? Both of them can read minds. As telepaths, they&apos;re praised as the “best couple with hearts truly connected,” a</image:caption>
+    </image:image>
+  </url>
+  <url>

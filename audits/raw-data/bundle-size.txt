@@ -1,0 +1,7 @@
+total 568K
+drwxr-xr-x 1 runner runner   28 Oct 18 08:00 .
+drwxr-xr-x 1 runner runner  800 Oct 18 08:23 ..
+-rw------- 1 runner runner 562K Oct 18 08:00 index.js
+drwxr-xr-x 1 runner runner  188 Oct 18 08:00 public
+
+564K	dist/index.js
